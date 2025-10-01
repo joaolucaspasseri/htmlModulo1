@@ -18,4 +18,4 @@ Os exercícios abordam os seguintes tópicos:
   Inclusão de links e imagens.
 
 
-Este repositório é destinado ao meu aprendizado pessoal. No entanto, contribuições são bem-vindas! Se você deseja sugerir melhorias ou adicionar novos exercícios, fique à vontade para abrir uma issue ou pull request.  
+Este repositório é destinado ao meu aprendizado pessoal. No entanto, contribuições são bem-vindas! Se você deseja sugerir melhorias ou adicionar novos exercícios. 
